@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Niouane's Journey into Web Development</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+<nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about_me.html">About Adam</a></li>
+                <li><a href="about_friend.html">About Marounane</a></li>
+            </ul>
+    <h1>Niouane's Journey into Web Development</h1>
+    <p>Hello, my name is Niouane. At the age of 9, I received a personal computer as a gift, opening up a world of possibilities before me. Since then, I have been captivated by the new technologies and innovations that shape our world. Each discovery, each new invention, has sparked my curiosity and fueled my desire to learn.</p>
+
+    <p>However, it wasn't until a few years later that I discovered my true passion: computer development. Through lines of code, I found a way to express my creativity and bring my ideas to life. My first steps into the world of coding were modest; I started by creating small websites, even though I didn't publish them at the time because I still felt inexperienced.</p>
+
+    <p>Gradually, I gained confidence and began exploring new techniques, refining my skills, and developing my own projects. Creating websites became a true passion for me. Every line of code was a new opportunity to learn and progress.</p>
+
+    <p>My uncle, Mahmoud Nassih, played a significant role in my development journey. As the creator of the One Bank Al Maghreb website, he inspired and guided me in my own path. With his wise advice and constant support, I was able to gain a thorough understanding of web development principles.</p>
+
+    <p>Additionally, I was fortunate to discover online resources such as W3Schools, which allowed me to deepen my knowledge and explore new areas of development. The invaluable assistance of ChatGPT has also been a major asset in my learning. By asking questions and receiving relevant answers, I was able to overcome obstacles and progress in my coding practice.</p>
+
+    <p>Today, thanks to my passion for computer development and my constant desire to improve, I have succeeded in creating my own website. It is the result of many hours of hard work, experimentation, and determination. I am proud of what I have accomplished so far, but I also know that there is still much to learn and discover in this constantly evolving field.</p>
+
+    <p>I am eager to continue exploring new technologies, taking on new challenges, and sharing my knowledge with other enthusiasts like me. The world of computer development is vast and full of opportunities, and I am determined to explore every facet of it with enthusiasm and determination.</p>
+<footer>
+        <p>&copy; 2024 Adam Chadad +Marouane Nassih</p>
+    </footer>
+</body>
+</html>
